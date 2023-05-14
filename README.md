@@ -1,6 +1,9 @@
 # Описание репозитория jusan-git
 
 Данный репозиторий содержит скрипт для вывода моего ID на stepik.org.
+#@@ Задание 4
+## добавьте новый файл username.sh, который выводит ваше имя и фамилию на латинском в формате Имя Фамил
+##<img src="https://drive.google.com/file/d/1NA-klxDQYmRJKISCBMybqJIyW2W9rIyt/view?usp=share_link" alt="logo_jusan">
 
 # @@Stepik-id-printer (h2)@@
 Этот проект для вывода персонального идентификатора на *образовательной платформе* ```stepik.org```.
