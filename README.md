@@ -2,7 +2,7 @@
 
 Данный репозиторий содержит скрипт для вывода моего ID на stepik.org.
 # @@Stepik-id-printer (h1)@@
-https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/
+<img src="https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/" alt="logo jusan"
 
 # @@Stepik-id-printer (h2)@@
 Этот проект для вывода персонального идентификатора на *образовательной платформе* ```stepik.org```.
