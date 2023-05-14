@@ -5,6 +5,8 @@
 ## добавьте новый файл username.sh, который выводит ваше имя и фамилию на латинском в формате Имя Фамил
 ##<img src="https://drive.google.com/file/d/1NA-klxDQYmRJKISCBMybqJIyW2W9rIyt/view?usp=share_link" alt="logo_jusan">
 
+# @@  username.sh, который выводит ваше имя и фамилию на латинском в формате Имя Фамилия
+
 # @@Stepik-id-printer (h2)@@
 Этот проект для вывода персонального идентификатора на *образовательной платформе* ```stepik.org```.
 ## @@Возможности@@
@@ -48,3 +50,4 @@ class Main {
 | WhatsApp      | [Ссылка](https://github.com/Aido89/-jusan-git) | 30 минут      |
 | Telegram      | [Ссылка](https://github.com/Aido89/-jusan-git) | 5 минут       |
 
+ 
